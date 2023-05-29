@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677594509 source:c:\users\vlad\desktop\lucrari\sda\lab1\problemarecapitulare1\main.c
+	<stdio.h>
+	<stdlib.h>
+

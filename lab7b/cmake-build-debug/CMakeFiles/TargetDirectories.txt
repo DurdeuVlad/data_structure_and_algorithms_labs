@@ -1,0 +1,3 @@
+C:/Users/Vlad/Desktop/lucrari/SDA/lab7b/cmake-build-debug/CMakeFiles/lab7b.dir
+C:/Users/Vlad/Desktop/lucrari/SDA/lab7b/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Vlad/Desktop/lucrari/SDA/lab7b/cmake-build-debug/CMakeFiles/rebuild_cache.dir

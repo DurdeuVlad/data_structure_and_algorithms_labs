@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678262141 source:c:\users\vlad\desktop\lucrari\sda\lab2\problema_bonus_7_lab2\main.c
+	<stdio.h>
+	<stdlib.h>
+
